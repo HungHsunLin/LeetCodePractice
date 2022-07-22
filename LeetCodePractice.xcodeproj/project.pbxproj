@@ -62,7 +62,6 @@
 		2B106042288AA84B001B4A04 = {
 			isa = PBXGroup;
 			children = (
-				2B1060B7288AE25A001B4A04 /* Easy */,
 				2B1060D8288AF24A001B4A04 /* LeetCodePractice */,
 				2B1060EF288AF25E001B4A04 /* LeetCodePracticeTests */,
 				2B106052288AA9D0001B4A04 /* Products */,
@@ -90,12 +89,13 @@
 			isa = PBXGroup;
 			children = (
 				2B1060D9288AF24A001B4A04 /* AppDelegate.swift */,
+				2B1060E2288AF25D001B4A04 /* Assets.xcassets */,
+				2B1060B7288AE25A001B4A04 /* Easy */,
+				2B1060E7288AF25D001B4A04 /* Info.plist */,
+				2B1060E4288AF25D001B4A04 /* LaunchScreen.storyboard */,
+				2B1060DF288AF24A001B4A04 /* Main.storyboard */,
 				2B1060DB288AF24A001B4A04 /* SceneDelegate.swift */,
 				2B1060DD288AF24A001B4A04 /* ViewController.swift */,
-				2B1060DF288AF24A001B4A04 /* Main.storyboard */,
-				2B1060E2288AF25D001B4A04 /* Assets.xcassets */,
-				2B1060E4288AF25D001B4A04 /* LaunchScreen.storyboard */,
-				2B1060E7288AF25D001B4A04 /* Info.plist */,
 			);
 			path = LeetCodePractice;
 			sourceTree = "<group>";
